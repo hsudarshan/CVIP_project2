@@ -1,0 +1,1 @@
+The folder contains all the data used as input in the project
